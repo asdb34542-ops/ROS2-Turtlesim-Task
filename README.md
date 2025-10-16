@@ -19,7 +19,7 @@ ros2 pkg executables turtlesim
 4. Run Turtlesim node:
 bash
 ros2 run turtlesim turtlesim_node
-
+"C:\xampp\htdocs\smert_tasks\turtlesim image.jpg"
 
 
 
