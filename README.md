@@ -19,7 +19,7 @@ ros2 pkg executables turtlesim
 4. Run Turtlesim node:
 bash
 ros2 run turtlesim turtlesim_node
-After executing these commands, a window will appear containing the turtle.
+
 
 
 
